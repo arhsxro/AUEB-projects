@@ -1,0 +1,28 @@
+body {
+	background-color: rgba(49, 48, 65, 0.746)
+  
+}
+	
+h1 {
+	color:rgb(255, 0, 191); 
+	font-family:Verdana;
+	
+}
+
+a:hover
+{
+    background: rgb(0, 0, 0);
+    color: rgb(255, 0, 191);
+}
+
+a:visited
+{
+    color: rgb(255, 0, 191);
+}
+
+li {
+	
+	color: black;
+	font-family: "Verdana", serif;
+	font-size: 18px;
+}

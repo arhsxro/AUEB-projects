@@ -1,0 +1,170 @@
+body {
+	background-color: rgba(49, 48, 65, 0.746)
+  
+}
+header {
+	margin-left: 200px;
+	padding-left: 5px;
+}
+	
+#h1 {
+	color:black; 
+	font-family:Verdana;
+	
+}
+
+h2 {
+	font: bold 25px serif;
+	font-family: "Verdana", serif;
+	color:rgb(80, 29, 104);
+  
+}
+h3{
+	font: bold 15px serif;
+	font-family: "Verdana", serif;
+	color:black;
+	margin-left: 200px;
+}
+
+p {
+  color: rgb(0, 0, 0);
+  font-family: "Verdana", serif;
+  font-size: 20px;
+  padding-left: 5px;
+  margin-right: 40px;
+  margin-left:40px;
+  
+}
+
+dt{
+	color: black;
+	font-family: "Verdana", serif;
+	font-size: 18px;
+	
+}
+
+dd{
+	color: black;
+	font-family: "Verdana", serif;
+	font-size: 17px;
+}
+
+
+nav {
+	background-color: rgba(80, 29, 104, 0.808);
+	float: left;
+	display: block;
+	font-family: "Verdana", serif;
+	font-size: 15px;
+	margin: 10px;
+	padding: 10px;
+	width: 150px;
+	height: 100%;
+	position: fixed;
+}
+
+a
+{
+    
+    padding: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(168, 34, 34);
+    text-transform: uppercase;
+    
+    
+}
+
+a:hover
+{
+    background: rgb(0, 0, 0);
+    color: rgb(255, 0, 191);
+}
+
+a:visited
+{
+    color: rgb(255, 0, 191);
+}
+	
+
+li {
+	
+	color: black;
+	font-family: "Verdana", serif;
+	font-size: 18px;
+	margin-left:40px;
+	
+}
+
+img {
+	
+	margin-left: 80px;
+	
+}
+
+footer 
+{
+    font-family: "Verdana", serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(104, 64, 233);
+    color: white;
+	border: 2px solid black;
+	
+	
+	
+	
+	
+}
+article{
+	color: rgb(0, 0, 0);
+	font-family: "Verdana", serif;
+	font-size: 20px;
+	padding-left: 5px;
+	margin-right: 40px;
+	margin-left: 200px;
+	
+	
+}
+
+label{
+	font-family: "Verdana", serif;
+	font-size: 17px;
+	margin-right: 40px;
+	margin-left: 750px;
+	text-align:center;
+	background-color:rgb(255, 0, 191);
+	border: 2px solid black;
+}
+
+select {
+  
+	appearance: none;
+	background-color:rgb(255, 0, 191);
+	font-family: "Verdana", serif;
+	font-size: 17px;
+	margin-right: 40px;
+	margin-left: 200px;
+	line-height: inherit;
+	text-align:center;
+	
+}
+
+
+.centerselect {
+    margin-left:750px;
+    width: 210px;
+    border: 2px solid black;
+    padding: 10px;
+  }
+
+.center {
+  display: block;
+ 
+  width: 25%;
+  border: 2px solid black;
+}
+
+
+

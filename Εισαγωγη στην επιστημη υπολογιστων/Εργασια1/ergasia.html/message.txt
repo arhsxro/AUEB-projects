@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<h3> <b>Κάποιες πληροφορίες σχετικά με την εργασία</b></h3>
+<p> Ώς αφορμή για την δημιουργία της συγκεκριμένης ιστοσελίδας στάθηκε το μάθημα "Εισαγωγή στην επιστήμη Υπολογιστών".Η επιλογή του συγκεκριμένου θέματος είναι αποτέλεσμα του ενδιαφέροντος μας για τους υπολογιστές και τα κομμάτια απο τα οποία αποτελούνται. Εκτός αυτού, θεωρούμε πως είναι ιδιαίτερα χρήσιμες γνώσεις, ειδικότερα στην εποχή της τεχνολογικής ανάπτυξης, αφού οι υπολογιστές είναι πλέον το μέσο για την διεξαγωγή διαφόρων εργασιών. Φυσικά, η συναρμολόγηση ενός υπολογιστή τα τελευταια χρόνια βρίσκει απήχηση- ιδιαίτερα στους νέους- καθώς εξοικονομούνται χρήματα, χώρις να χάνετε ποιότητα. </p>
+
+<h4> <b> <em> Πηγές: </em></b></h4>
+<a href= "https://www.cgdirector.com/parts-needed-to-build-a-pc/?fbclid=IwAR0zn0kmsIPqC9foNlBToDaEFs9qjRKPjVw__feBaaUc3Eky1QHmmnuHgsY#case">https://www.cgdirector.com/parts-needed-to-build-a-pc/?fbclid=IwAR0zn0kmsIPqC9foNlBToDaEFs9qjRKPjVw__feBaaUc3Eky1QHmmnuHgsY#case </a>
+<a href= "https://www.youtube.com/user/LinusTechTips?fbclid=IwAR0jbal8Bq8Zd3AufyviyzBJcvoyrscHmxc45LM2KiowSLURo_M-8C_SbtY">https://www.youtube.com/user/LinusTechTips?fbclid=IwAR0jbal8Bq8Zd3AufyviyzBJcvoyrscHmxc45LM2KiowSLURo_M-8C_SbtY </a>
+<a href= "https://www.pcsteps.gr/31967-%CF%83%CF%85%CE%BD%CE%B1%CF%81%CE%BC%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE-%CF%83%CF%84%CE%AE%CF%83%CE%B9%CE%BC%CE%BF-pc/">https://www.pcsteps.gr/31967-%CF%83%CF%85%CE%BD%CE%B1%CF%81%CE%BC%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE-%CF%83%CF%84%CE%AE%CF%83%CE%B9%CE%BC%CE%BF-pc/</a>
+
+<table> 
+    <Tr>
+    <Th> Ονοματεπώνυμο </Th>
+    <th> Αριθμός Μητρώου </th>
+    <th> email </th>
+    </Tr>
+    <tr>
+        <td> Νικόλαος Σοκόλης</td>
+        <td> 3200179</td>
+        <td> nikolassok@protonmail.ch</td>
+
+    </tr>
+    <tr>
+        <td> Ευγενία Μαρία Τσελίκη</td>
+        <td> 3200207</td>
+        <td> evgetsel1@gmail.com </td>
+    
+    </tr>
+    <tr>
+        <td>Αριστείδης Χρονόπουλος</td>
+        <td> 3160194 </td>
+        <td> </td>
+    </tr>
+
+</table>

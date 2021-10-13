@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">AlmostSpotify</string>
+    <string name="welcome_name">AlmostSpotify</string>
+    <string name="search_text">Search for a song...</string>
+    <string-array name="strings">
+        <item>Choose</item>
+        <item>Kevin MacLeod/Comedy/A surprising encounter</item>
+        <item>Kevin MacLeod/Comedy/Alternative Clock Dimension</item>
+        <item>Kevin MacLeod/Comedy/Baltic Levity</item>
+        <item>Kevin MacLeod/Comedy/Barroom Ballet</item>
+        <item>Kevin MacLeod/Comedy/Horns</item>
+        <item>Kevin MacLeod/Comedy/Joey\'s Song</item>
+        <item>Kevin MacLeod/Comedy/Night in the Castle</item>
+        <item>Kevin MacLeod/Comedy/Organ Filler</item>
+        <item>Kevin MacLeod/Comedy/Sad Drunken Partyr</item>
+        <item>Kevin MacLeod/Comedy/Comic Game Loop - Mischief</item>
+        <item>Kevin MacLeod/Comedy/Drunken Party</item>
+        <item>Kevin MacLeod/Comedy/Fenster\'s Explanation</item>
+        <item>Anonymous for Good Reasons/Comedy/And Here We Gor</item>
+        <item>Rafael Krux/Comedy/Barnville</item>
+        <item>Anonymous for Good Reasons/Comedy/Cha-Cha Ender</item>
+        <item>Alexander Nakarada/Comedy/Foam Rubber</item>
+        <item>Rafael Krux/Comedy/Ghost Town</item>
+        <item>Anonymous for Good Reasons/Comedy/Hello! Ma Baby</item>
+        <item>Rafael Krux/Comedy/Hopeful</item>
+        <item>Rafael Krux/Comedy/Llama in Pajama</item>
+        <item>Rafael Krux/Comedy/Madness of Linda</item>
+        <item>Rafael Krux/Comedy/Silly Boy</item>
+        <item>Alexander Nakarada/Comedy/Silly Intro</item>
+        <item>Kevin MacLeod/Electronic/Arpent</item>
+        <item>Kevin MacLeod/Electronic/Backbeat</item>
+        <item>Kevin MacLeod/Electronic/Beat One</item>
+        <item>Kevin MacLeod/Electronic/Bit Bit Loop</item>
+        <item>Kevin MacLeod/Electronic/Goodnightmare</item>
+        <item>Kevin MacLeod/Electronic/Hear What They Say</item>
+        <item>Kevin MacLeod/Electronic/Meditating Beat</item>
+        <item>Alexander Nakarada/Electronic/Hippety Hop</item>
+        <item>Kevin MacLeod/Electronic/Evil Incoming</item>
+        <item>Kevin MacLeod/Electronic/Evil Incoming</item>
+        <item>Kevin MacLeod/Electronic/Evil Incoming</item>
+        <item>Kevin MacLeod/Epic Dramatic/Evil Incoming</item>
+        <item>Alexander Nakarada/Epic Dramatic/Putin\'s Lullaby</item>
+        <item>Rafael Krux/Epic Dramatic/The Range</item>
+        <item>Alexander Nakarada/Fantasy/Celebration</item>
+        <item>Kevin MacLeod/Fantasy/Dancing at the Inn</item>
+        <item>Phase Shift/Fantasy/Forest Night</item>
+        <item>Rafael Krux/Fantasy/Magic in the Garden</item>
+        <item>Kevin MacLeod/Fantasy/Magical Transition</item>
+        <item>Kevin MacLeod/Fantasy/Painting Room</item>
+        <item>Kevin MacLeod/Fantasy/The Britons</item>
+        <item>Rafael Krux/Fantasy/One Step Closer</item>
+        <item>Alexander Nakarada/Fantasy/The Crown</item>
+        <item>Kevin MacLeod/Fantasy/Witch Waltz</item>
+        <item>Kevin MacLeod/Horror/Alien Spaceship Atmosphere</item>
+        <item>Rafael Krux/Horror/Asking Questions</item>
+        <item>Alexander Nakarada/Horror/Consecrated Ground</item>
+        <item>Alexander Nakarada/Horror/Creepy Hallow</item>
+        <item>Arthur Fordsworthy/Horror/Footsteps in the Attic</item>
+        <item>Alexander Nakarada/Horror/Hor Hor</item>
+        <item>Kevin MacLeod/Horror/Horroriffic</item>
+        <item>Kevin MacLeod/Horror/Satin Danger</item>
+        <item>Alexander Nakarada/Horror/Nightmare</item>
+        <item>Rafael Krux/Horror/The Land of the Dead</item>
+        <item>Komiku/Miscellaneaous/A Good Bass for Gambling</item>
+        <item>dogsounds/Miscellaneaous/A Waltz For Naseem</item>
+        <item>Severed Personalit/Miscellaneaous/Abstract Anxiety</item>
+        <item>Brian Boyko/Miscellaneaous/Ambush in Rattlesnake Gulch</item>
+        <item>Kevin MacLeod/Miscellaneaous/Bass Meant Jazz</item>
+        <item>Komiku/Miscellaneaous/Bleu</item>
+        <item>Brian Boyko /Miscellaneaous/Improv for Evil</item>
+        <item>Kevin MacLeod/Miscellaneaous/Improved Ice Cream Truck</item>
+        <item>Jason Shaw/Miscellaneaous/River Meditation</item>
+        <item>Kevin MacLeod/Miscellaneaous/Sunday Dub</item>
+        <item>Kevin MacLeod/Miscellaneaous Chill/Infinite Peace</item>
+        <item>Kevin MacLeod/Miscellaneaous Chill/Infinite Wonder</item>
+        <item>Kevin MacLeod/Miscellaneaous Chill/Wisdom in the Sun</item>
+        <item>Kevin dogsounds/Miscellaneaous Brandenburg Concerto III, Allegro II</item>
+        <item>Kevin MacLeod/Miscellaneaous Classical/Dark Hallway</item>
+        <item>James Anderson/Miscellaneaous Classical/Goldcrest</item>
+        <item>Kevin MacLeod/Miscellaneaous Classical/Icicles Melting</item>
+        <item>Kevin MacLeod/Miscellaneaous Classical/Painful Disorientation</item>
+        <item>Rafael Krux/Miscellaneaous Classical/The Celebrated Minuet for Piano</item>
+        <item>Rafael Krux/Miscellaneaous Classical/The Celebrated Minuet</item>
+        <item>Alexander Nakarada/Miscellaneaous Country/Journey of Hope</item>
+        <item>Alexander Nakarada/Miscellaneaous Country/Lukewarm Banjo</item>
+        <item>Kevin MacLeod/Miscellaneaous Jazz/Compy Jazz</item>
+        <item>Kevin MacLeod/Miscellaneaous Jazz/Fake It Til You Fake It</item>
+        <item>Kevin MacLeod/Miscellaneaous Jazz/Flutey Jazz</item>
+        <item>Kevin MacLeod/Miscellaneaous Jazz/Funkeriffic</item>
+        <item>Brian Boyko/Miscellaneaous Jazz/Groovin</item>
+        <item>Alexander Nakarada/Miscellaneaous Rock/Apex</item>
+        <item>Alexander Nakarada/Miscellaneaous Rock/Construction</item>
+        <item>Alexander Nakarada/Miscellaneaous Rock/Jîkull (Metal Version)</item>
+        <item>Brett VanDonsel/Miscellaneaous Rock/Quick Metal Riff 1</item>
+        <item>Alexander Nakarada/Miscellaneaous Rock/Silent Night (Unholy Night)</item>
+        <item>Alexander Nakarada/Miscellaneaous Rock/Uberpunch</item>
+        <item>Alexander Nakarada/Romantic Sentimental/Brothers Unite</item>
+        <item>Alexander Nakarada/Romantic Sentimental/Burt\'s Requiem</item>
+        <item>Komiku/Romantic Sentimental/Champ de tournesol</item>
+        <item>Alexander Nakarada/Romantic Sentimental/Horizon Flare</item>
+        <item>Komiku/Romantic Sentimental/La Citadelle</item>
+        <item>Jason Shaw/Romantic Sentimental/Landra\'s Dream</item>
+        <item>Kevin MacLeod/Romantic Sentimental/Patience Party</item>
+        <item>Alexander Nakarada/Romantic Sentimental/Winter</item>
+        <item>Rafael Krux/Underscoring/After the End</item>
+        <item>Rafael Krux/Underscoring/Beginning of Conflict</item>
+        <item>Alexander Nakarada/Underscoring/Chronos</item>
+        <item>Rafael Krux/Underscoring/Dreams of Vain</item>
+        <item>Kevin MacLeod/Underscoring/Driving Concern</item>
+        <item>Alexander Nakarada/Underscoring/Favorite</item>
+        <item>Rafael Krux/Underscoring/Final Step</item>
+        <item>Alexander Nakarada/Underscoring/Fireworks</item>
+        <item>Kevin MacLeod/Underscoring/Funky Energy Loop</item>
+        <item>Rafael Krux/Underscoring/Hidden Truth</item>
+        <item>Alexander Nakarada/Underscoring/Novus Initium</item>
+        <item>Rafael Krux/Underscoring/The Drama</item>
+        <item>Alexander Nakarada/Underscoring/The Lagoon</item>
+        <item>Alexander Nakarada/Uplifting /Be Chillin</item>
+        <item>Kevin MacLeod/Uplifting /City Sunshine</item>
+        <item>Kevin MacLeod/Uplifting /Funshine</item>
+        <item>Kevin MacLeod/Uplifting /Pickled Pink</item>
+        <item>Rafael Krux/Uplifting /Stereotype News</item>
+        <item>Alexander Nakarada/World/Ambient Bongos</item>
+        <item>Alexander Nakarada/World/Be Jammin</item>
+        <item>Alexander Nakarada/World/Blacksmith</item>
+        <item>Kevin MacLeod /World/Bollywood Groove</item>
+        <item>Alexander Nakarada/World/Bonfire</item>
+        <item>Kevin MacLeod/World/Breaking Bollywood</item>
+        <item>Kevin MacLeod/World/Connecting Rainbows</item>
+        <item>Kevin MacLeod/World/Experimental Test Subject</item>
+        <item>Rafael Krux/World/Eye of Forgiveness</item>
+        <item>Kevin MacLeod/World/Forest Frolic Loop</item>
+        <item>Alexander Nakarada/World/Le Baguette</item>
+        <item>Alexander Nakarada/World/Marked</item>
+        <item>Kevin MacLeod/World/Midnight in the Green House</item>
+        <item>Alexander Nakarada/World/Nomadic Sunset</item>
+        <item>Alexander Nakarada/World/The Story</item>
+        <item>Kevin MacLeod/World/Village Tarantella</item>
+        <item>Kevin MacLeod/World/Windy Old Weather</item>
+
+
+    </string-array>
+
+</resources>

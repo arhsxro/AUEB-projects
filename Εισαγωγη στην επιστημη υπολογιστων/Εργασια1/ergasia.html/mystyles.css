@@ -1,0 +1,127 @@
+body {
+  background-color: rgba(49, 48, 65, 0.746)
+  
+	}
+
+p {
+  color: rgb(0, 0, 0);
+  font-family: "Verdana", serif;
+  font-size: 20px;
+  padding-left: 5px;
+  margin-right: 30px;
+}
+
+h1 {
+	color:rgb(255, 0, 191); 
+  font-family:Verdana;
+	
+}
+h2 {
+  font: bold 25px serif;
+  font-family: "Verdana", serif;
+  color:rgb(0, 255, 64)
+  
+}
+
+h3 {
+  font: bold 20px serif;
+  font-family: "Verdana", serif;
+  color:rgb(2, 68, 19)
+  
+}
+hr {
+	color:navy; 
+	width:80%
+}
+a:link {
+  font-family: "Verdana", serif;
+	color:rgb(19, 184, 55)
+}
+a:visited {
+  font-family: "Verdana", serif;
+	color:rgba(139, 246, 0, 0.205)
+}
+img {
+	float: right;
+	margin-right: 60px;
+}
+div {
+  margin-left: 200px;
+  padding-left: 5px;
+  font-family: "Verdana", serif;
+  font-size: 20px;
+}
+
+header {
+  margin-left: 200px;
+  padding-left: 5px;
+}
+
+table,th,td {
+  width:40% ;
+  border-collapse: collapse;
+  border: 3px solid rgba(0, 0, 0, 0.651);
+	color: rgb(0, 0, 0);
+  font-family: Verdana;
+  font-size:16px;
+}
+th, td {
+  padding: 5px;
+}
+th {
+  text-align: left;
+  color: rgb(0, 221, 66) 
+}
+
+
+nav {
+  background-color: rgba(80, 29, 104, 0.808);
+  float: left;
+  display: block;
+  font-family: "Verdana", serif;
+	font-size: 15px;
+  margin: 5px;
+  padding: 10px;
+  width: 150px;
+  height: 500px;
+}
+
+nav li {
+	list-style: none;
+	color: white;
+  font-family: "Verdana", serif;
+	font-size: 18px;
+}
+
+nav a
+{
+    display: block;
+    padding: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(168, 34, 34);
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    margin-right: 10px;
+}
+
+nav a:hover
+{
+    background: rgb(0, 0, 0);
+    color: rgb(255, 0, 191);
+}
+
+nav a:visited
+{
+      color: rgb(255, 0, 191);
+}
+footer 
+{
+    font-family: "Verdana", serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(104, 64, 233);
+    color: white;
+}
+

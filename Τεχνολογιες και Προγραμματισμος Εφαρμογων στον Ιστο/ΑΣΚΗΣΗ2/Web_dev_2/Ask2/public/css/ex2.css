@@ -1,0 +1,294 @@
+body {
+	background-color: olive;
+	position:relative;
+  
+}
+
+
+p {
+  color: black;
+  font-family: "Verdana", serif;
+  font-size: 25px;
+  font-style: italic;
+  
+  text-align: center;
+  font-weight: bold;
+
+  margin-left:140px;
+  
+}
+
+
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: #4CAF50;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+
+footer 
+{
+    font-family: "Verdana", serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 4px;
+    height: 50px;
+    position: absolute;
+    bottom: 0 auto;
+    margin-top:220px;
+    
+  
+    width:100%;
+	
+    background-color: #333;
+   
+	  border: 2px solid black;	
+ 
+    
+    height: 20px;
+    
+    
+
+   
+    
+	
+}
+
+footer a{
+	
+    text-decoration: none;
+    font-weight: bold;
+    color: #4CAF50;
+    text-transform: uppercase;
+}
+
+footer a:hover{
+	background-color: #111;
+    
+}
+h1{
+	text-align: center;
+	font-size: 40px;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.und{
+	text-decoration-line: underline;
+	font-size: 25px;
+	
+}
+
+form { 
+	margin: 0 auto; 
+	width:250px;
+	text-align: center;
+
+}
+
+
+label{
+  margin: 0 auto; 
+	width:250px;
+	font-size: 25px;
+  font-style: italic;
+  
+  text-align: center;
+  font-weight: bold;
+	
+}
+
+input{
+  margin: 0 auto; 
+	width:250px;
+	font-size: 25px;
+  font-style: italic;
+  
+  text-align: center;
+  font-weight: bold;
+	
+}
+
+.book0{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+
+.book1{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book2{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book3{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book4{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book5{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book6{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book7{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book8{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book9{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book10{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book11{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book12{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book13{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book14{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+.book15{
+  background-color:grey;
+  padding:1rem;
+  margin-bottom:1rem;
+
+}
+
+
+button{
+  
+  margin-left: 30px;
+	text-align: center;
+  background-color:olive;
+  padding:1rem;
+  margin-bottom:1rem;
+  font-style: italic;
+  font-weight: bold;
+
+}
+
+.b2{
+  margin-left: 10px;
+	text-align: center;
+  background-color:red;
+  padding:1rem;
+  margin-bottom:1rem;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.b3{
+
+  margin-left: 20px;
+	text-align: center;
+  background-color:green;
+  padding:1rem;
+  margin-bottom:1rem;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.container{
+	background-color:DarkGoldenRod;	
+	position: absolute;
+  margin-top:100px;
+	top: 120%;
+	left: 50%;
+	transform: translate(-50%, -50%);  	
+}
+
+.registerbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  display: block;
+  margin: 0 auto;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}

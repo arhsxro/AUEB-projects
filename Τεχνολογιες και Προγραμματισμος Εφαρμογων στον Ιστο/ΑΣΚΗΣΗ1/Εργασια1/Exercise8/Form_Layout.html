@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang = "en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Ηλεκτρονικό εμπόριο</title>
+		<meta name="viewport" content="width=devise-width, initial-scale = 1">
+		<link rel="stylesheet" type="text/css" href="Exercise8_with_CSS.css">
+		<script src="C:/Users/arhsxro/Desktop/Exercise8/Ask8_javascript.js"></script>
+	</head>
+	<body>
+		
+		<main>
+			<article class="ΤΙΤΛΟΣ">
+				<header>
+					<h2>Σε αυτη τη σελίδα σας δίνεται η δυνατότητα να εγγραφείτε στη σελίδα μας ώστε να συνεισφέρετε σε ένα μελλοντικό έργο που θα εργασθούμε</h2>
+				</header>
+			</article>
+			
+				
+			<div class="cent col">	
+				<article class="ΕΓΓΡΑΦΗ">
+				
+					<form action="action_page.php">
+					
+					  <div class="container">
+						<h1>ΕΓΓΡΑΦΗ</h1>
+						<p>Παρακαλώ συμπληρώστε τη φόρμα προκειμένου να εγγραφείτε στη σελίδα μας.</p>
+						<hr>
+
+						<label for="username"><strong>Username</strong></label>
+						<input type="text" placeholder="Enter username" name="username" id="username" required>
+
+						<label for="password"><strong>Password</strong></label>
+						<input type="password" placeholder="Enter Password" name="password" id="password" required>
+
+						<label for="confirmPassword"><strong>Confirm Password</strong></label>
+						<input type="password" placeholder="Confirm Password" name="confirmPassword" id="confirmPassword" required>
+						<hr>
+
+						
+						<button type="submit" class="registerbtn" onclick="Val1_Function()">ΕΓΓΡΑΦΗ</button>
+					  </div>
+
+					  
+					</form>
+					
+				</article>
+				<article>
+					
+					<form action="action_page.php" autocomplete="on">
+					
+						<div class="container1">
+							<h1>ΠΡΟΣΩΠΙΚΑ ΣΤΟΙΧΕΙΑ</h1><br>
+							<p>Παρακαλώ συμπληρώστε τα προσωπικα σας στοιχεια στη φορμα.</p>
+							
+							<datalist id="countryy">
+
+							  <select name="countryselect">						
+								<option>Ελλάδα</option>
+								<option>Αλβανία</option>
+								<option>Ιταλία</option>
+								<option>Γαλλία</option>
+								<option>Ουκρανία</option>
+								<option>Ρουμανία</option>
+								<option>Συρία</option>
+								<option>Αμερική</option>
+								<option>Κύπρος</option>
+								
+							  </select>
+
+							  <label for="country"></label>
+
+							</datalist>
+							
+							<datalist id="namee">
+
+							  <select name="nameselect">
+								<option>Μαρια</option>
+								<option>Ελένη</option>
+								<option>Χριστίνα</option>
+								<option>Γιώργος</option>
+								<option>Νίκος</option>
+								<option>Άρης</option>
+								<option>Χρήστος</option>
+								<option>Κώστας</option>
+								<option>Δημήτρης</option>
+								<option>Νίκη</option>
+								<option>Χαρά</option>
+								<option>Ναταλία</option>
+								<option>Παναγιώτης</option>
+								<option>Δήμητρα</option>
+								
+							  </select>
+
+							  
+
+							</datalist>
+							
+								<fieldset>
+									<legend>Ονονοματεπωνυμο</legend>
+									<label for="fname"><strong>Όνομα:</strong></label><br>
+									<input type="text" id="fname" name="fname" list="namee" required><br>
+									<label for="lname"><strong>Επώνυμο:</strong></label><br>
+									<input type="text" id="lname" name="lname" required><br>
+								</fieldset>
+								<fieldset>
+									<legend>Κατοιία</legend>
+									<label for="country"><strong>Χώρα:</strong></label><br>
+									<input type="text" id="country" name="country" list="countryy" required>
+									<label for="d"><strong>Διεύθυνση:</strong></label><br>
+									<input type="text" id="d" name="d" required>
+									<label for="tk"><strong>ΤΚ:</strong></label><br>
+									<input type="number" id="tk" name="tk" required><br>
+								</fieldset>
+								<fieldset>	
+									<legend>Ηλικία</legend>
+									<label for="birth"><strong>Hμερομηνία γέννησης:</strong></label><br>
+									<input type="date" id="birth" name="birth" required>
+									<p></p>
+									<label for="old"><strong>Hλικία:</strong></label><br>
+									<input type="number" id="old" name="old" min="1" max="100" required><br>
+									
+								</fieldset>
+								<fieldset>
+									<legend>Επικοινωνία</legend>
+									<label for="mail"><strong>e-mail:</strong></label><br>
+									<input type="email" id="mail" name="mail" placeholder="temp@gmail.com" required>
+									<p></p>									
+									<label for="phone"><strong>Τηλέφωνο:</strong></label><br>
+									<input type="number" id="phone" name="phone" required>
+								</fieldset>
+							
+							<button type="submit" class="ypovoli" onclick="Val2_Function() Val_Function()">ΥΠΟΒΟΛΗ</button>
+						</div>
+					</form>
+				</article>
+				
+				<article>
+					
+					<form action="action_page.php">
+					
+						<div class="container2">
+							<h1>ΑΣ ΓΝΩΡΙΣΤΟΥΜΕ ΛΙΓΟ ΚΑΛΥΤΕΡΑ</h1><br>
+							<p class="p1">Συμπληρώστε παρακάτω.</p>
+							<hr>
+								<p><strong>Φύλο:</strong></p>
+								<input type="radio" name="sex" id="male" value="male" >Άνδρας<br>
+								<input type="radio" name="sex" id="female" value="female" >Γυναίκα<br>
+								<p><strong>Εχεις Κατοικίδιο:</strong></p>
+								<input type="radio" name="pet" id="y" value="y" >Ναι<br>
+								<input type="radio" name="pet" id="n" value="n" >Οχι<br>
+								<p><strong>Τι κατοικίδιο έχεις:</strong></p>
+								<textarea rows="4" cols="50" placeholder="Γράψε εδώ"></textarea>
+								<p><strong>Ποιά είναι τα χομπι σου:</strong></p>
+								<textarea rows="6" cols="50" placeholder="Γράψε εδώ"></textarea>
+								<p><strong>Ποιά είναι τα χομπι σου:</strong></p>
+								<textarea rows="6" cols="50" placeholder="Γράψε εδώ"></textarea>
+								<p><strong>Τι κάνεις στον ελεύθερό σου χρόνο:</strong></p>
+								<textarea rows="8" cols="50" placeholder="Γράψε εδώ"></textarea>
+								<p><strong>Δουλεύεις/Σπουδάζεις και αν ναι πάνω σε τι:</strong></p>
+								<textarea rows="8" cols="50" placeholder="Γράψε εδώ"></textarea>
+								
+								<p><strong>Επέλεξε Διασκέδαση:</strong></p>	
+								<label for="p">Διασκέδαση:</label>
+								<select id="p" name="party">
+									<option value="Κλάμπ">Κλάμπ</option>
+									<option value="Επιτραπέζια">Επιτραπέζια</option>
+									<option value="Πάρκο">Πάρκο</option>
+									<option value="Μπάρ">Μπάρ</option>
+									<option value="Ταινία">Ταινία</option>
+								</select>
+								
+								<p><strong>Επέλεξε τι προτιμάς:</strong></p>				
+								  <label for="cars">Αμάξι ή Μηχανή:</label>
+								  <select name="cars" id="cars" >
+									<optgroup label="Αμάξι" >
+									  <option value="j">Τζιπ</option>
+									  <option value="cl">Κλασσικό</option>
+									</optgroup>
+									<optgroup label="Μηχανή" >
+									  <option value="m">Motard</option>
+									  <option value="sc">Scooter</option>
+									  <option value="st">Street</option>
+									</optgroup>
+								  </select>
+								  
+								  <p><strong>Γράψε το αγαπημένο σου φαγητό:</strong></p>
+								  <input name="food" value="φαγητο" list="foodlist" ><br>
+								  <datalist id="foodlist" >
+									<option value="Μακαρόνια">
+									<option value="Σουβλάκι">
+									<option value="Πίτσα">
+									<option value="Μπέργκερ">
+									<option value="Παστίτσιο">
+									<option value="Κεφτεδάκια">
+									<option value="Φακές">
+									<option value="Σαλάτα">
+									<option value="Μουσακάς">
+								  </datalist>
+							<hr>
+							<button type="submit" class="ypovoli">ΥΠΟΒΟΛΗ</button>
+						</div>
+					</form>
+				</article>
+				
+			</div>
+			<footer class="bottom">Για να επιστρέψετε στην αρχική σελίδα πατήστε <a href='index.html'>εδώ</a></footer>
+			
+			
+														
+		</main>
+			
+		
+	</body>
+</html>
